@@ -1,0 +1,944 @@
+Act as a world-class UI/UX designer, senior frontend engineer, cybersecurity branding specialist, and premium portfolio website developer. Build a complete, production-quality, fully responsive personal cybersecurity portfolio website for **Rodro Islam**, a professional penetration tester and cybersecurity specialist, using the uploaded reference image as the primary visual design inspiration.
+
+The final result must look like a premium, custom-designed cybersecurity portfolio for an international audience, suitable for presenting to potential clients, cybersecurity companies, recruiters, and international businesses. Follow the reference image's dark editorial composition, oversized typography, dramatic red accents, cinematic portrait placement, sophisticated grid system, project showcases, and structured information sections. However, transform the design language into an original cybersecurity-focused identity. Do not reproduce the reference designer's name, business identity, text, logos, or exact website content.
+
+**IMPORTANT: Build the actual working website, not just a design concept, mockup, screenshot, or landing-page image.** Implement the complete website with functional interactions, responsive layouts, real section content, reusable components, and polished visual details.
+
+# 1. PERSONAL BRAND AND WEBSITE PURPOSE
+
+Name: Rodro Islam
+
+Professional identity:
+- Professional Penetration Tester
+- Cybersecurity Specialist
+- Ethical Hacker
+- Web Application Security Tester
+- Vulnerability Assessment Specialist
+- Security Researcher
+
+Use these titles as positioning options, but prioritize accurate representation of skills and experience. Do not invent certifications, employment history, client relationships, vulnerability discoveries, testimonials, awards, or professional achievements.
+
+Primary objectives:
+1. Attract international cybersecurity clients.
+2. Generate penetration-testing and security-assessment inquiries.
+3. Help recruiters and cybersecurity companies evaluate my capabilities.
+4. Showcase security projects, research, technical skills, and documented findings.
+5. Establish a credible, professional personal brand.
+6. Encourage visitors to contact me for authorized security testing, consultations, and collaboration.
+
+Target audience:
+- International businesses and startups
+- SaaS companies and technology companies
+- Website and web application owners
+- Security teams and IT departments
+- Founders seeking security assessments
+- Recruiters and cybersecurity hiring managers
+- Organizations seeking authorized penetration testing
+
+All website copy must be written in polished, natural, professional English suitable for an international audience.
+
+# 2. VISUAL DIRECTION — FOLLOW THE REFERENCE THEME
+
+Use the uploaded reference image as the visual foundation.
+
+Preserve its defining visual characteristics:
+
+- A predominantly black, cinematic background.
+- Oversized red typography behind a centrally positioned portrait.
+- A premium editorial-style hero layout.
+- Strong contrast between red, white, gray, and black.
+- Thin horizontal divider lines.
+- Compact uppercase labels and metadata.
+- Carefully aligned columns and grid-based sections.
+- Large, bold typography with condensed letterforms.
+- Sophisticated project cards with large image previews.
+- Small red numerical markers for statistics and project indexes.
+- A three-column or modular information layout.
+- A dramatic quotation or professional philosophy panel.
+- A strong final contact section.
+- Generous visual hierarchy without excessive empty space.
+- Subtle lighting, restrained gradients, and cinematic depth.
+
+Adapt the visual theme using cybersecurity-specific visual elements such as terminal-inspired details, abstract network connections, security scan patterns, fine grid lines, code fragments, vulnerability-analysis imagery, and subtle digital noise.
+
+Do not turn the site into a generic hacker dashboard, gaming interface, neon cyberpunk template, or ordinary SaaS landing page. The result must feel like a premium personal portfolio created by an experienced creative agency for a serious cybersecurity professional.
+
+# 3. COLOR PALETTE
+
+Use this carefully controlled color system:
+
+- Primary background: #070707
+- Secondary background: #0D0D0F
+- Elevated surfaces: #121214
+- Primary accent red: #E50920
+- Deep crimson: #780916
+- Bright accent red: #FF263F
+- Primary text: #F5F5F5
+- Secondary text: #A1A1AA
+- Muted metadata: #707078
+- Borders and dividers: #29292D
+- Subtle white highlight: rgba(255,255,255,0.08)
+
+Use red strategically for oversized background typography, active states, section indexes, key statistics, small icons, focus indicators, and calls to action.
+
+Do not apply bright red to every element. The overall interface should remain dark, refined, legible, and professional.
+
+Create depth using subtle black-to-crimson gradients, restrained red ambient lighting around the hero portrait, fine borders, layered backgrounds, and realistic shadows. Avoid excessive glow and oversaturated effects.
+
+# 4. TYPOGRAPHY AND DESIGN SYSTEM
+
+Use a premium typographic pairing.
+
+Suggested fonts:
+- Headings: Space Grotesk, preferably bold and extra-bold weights.
+- Oversized editorial display text: a condensed typeface such as Bebas Neue or Oswald.
+- Body copy: Inter.
+- Technical metadata and terminal labels: JetBrains Mono.
+
+Load fonts through a reliable font provider when available, with appropriate fallback fonts.
+
+Typography hierarchy:
+- Oversized hero background text: approximately 140–240px on large desktop displays, scaled responsively.
+- Main hero heading: approximately 48–84px on desktop.
+- Section headings: approximately 28–44px.
+- Card headings: approximately 18–25px.
+- Body text: approximately 14–17px.
+- Labels and metadata: approximately 10–12px.
+
+Use tight heading line-height, controlled letter spacing, clean paragraph widths, and consistent uppercase micro-labels.
+
+Never allow typography to overlap important content unintentionally. Large display text may sit behind the portrait, but all interactive and readable elements must remain accessible.
+
+# 5. HEADER AND NAVIGATION
+
+Create a minimal, premium header inspired by the thin top navigation in the reference image.
+
+Desktop layout:
+- Left: a compact original wordmark reading “RODRO.ISLAM” or “RODRO / SECURITY”.
+- Under the wordmark, show a small descriptor such as “PENETRATION TESTER & SECURITY RESEARCHER”.
+- Right: concise navigation links.
+- Far right: a small availability indicator and a prominent “LET'S TALK” action.
+
+Navigation links:
+- Home
+- About
+- Services
+- Projects
+- Skills
+- Contact
+
+Use smooth scrolling for internal navigation.
+
+Keep the header visually restrained, with a thin bottom divider and a subtle background transition when scrolling.
+
+On mobile:
+- Use a compact header with the wordmark and accessible menu button.
+- Open a clean, full-screen or dropdown navigation panel.
+- Ensure the menu closes after navigation.
+- Support keyboard operation and screen readers.
+
+Do not include fake availability claims. Use a configurable availability label that I can update.
+
+# 6. HERO SECTION — THE MOST IMPORTANT SECTION
+
+Build a dramatic, visually striking hero section closely following the composition of the reference.
+
+The hero must immediately communicate who I am, what I do, and why a potential client should trust me.
+
+Desktop composition:
+- Use a wide, nearly full-viewport dark section.
+- Place a gigantic uppercase typographic element behind the portrait, using a word such as “SECURITY”, “PENTEST” or “DEFEND”.
+- Make the background word red, bold, condensed, and partially obscured by the portrait.
+- Position my portrait in the center or slightly right of center.
+- Put the main introduction and professional title on the left.
+- Put a small professional positioning statement and carefully chosen metrics on the right.
+- Add thin horizontal dividers and small metadata labels.
+- Keep the hero within a consistent page-width container.
+
+Portrait requirements:
+**I will upload my own photograph separately. Use that uploaded photograph as the hero portrait.**
+Do not use the reference image's person, a stock model, a generated substitute, or another person's face.
+Preserve my actual identity and facial features.
+If the uploaded image has a background that conflicts with the design, use a technically appropriate background-removal or image-processing workflow when available, without altering my identity.
+Use realistic portrait lighting, natural skin texture, subtle contrast, and a clean edge.
+If background removal is unavailable, use the uploaded image with a carefully styled crop and dark gradient overlay.
+Keep the portrait prominent, high quality, and naturally integrated into the design.
+
+Hero copy direction:
+
+Small top label:
+“INDEPENDENT SECURITY SPECIALIST”
+
+Main introduction:
+“Hi, I'm Rodro.”
+
+Name treatment:
+“RODRO ISLAM”
+
+Professional headline:
+“PENETRATION TESTER”
+“APPLICATION SECURITY”
+
+Supporting copy:
+“I help organizations identify security weaknesses, assess real-world risk, and strengthen the security of their digital products through authorized, methodical security testing.”
+
+Primary CTA:
+“DISCUSS A SECURITY ASSESSMENT”
+
+Secondary CTA:
+“EXPLORE MY WORK”
+
+Add a small availability/location-independent label such as:
+“AVAILABLE FOR SELECTED SECURITY PROJECTS”
+Make this text configurable rather than asserting availability that has not been confirmed.
+
+Right-side supporting statement:
+“Finding weaknesses. Understanding risk. Building stronger defenses.”
+
+Below it, create a compact metrics panel. Use only verified information supplied by me. If no confirmed figures are available, use non-numeric highlights such as:
+- APPLICATION SECURITY
+- AUTHORIZED TESTING
+- RISK-FOCUSED REPORTING
+
+Do not fabricate numbers of years of experience, clients, completed assessments, discovered vulnerabilities, or security certifications.
+
+Include a small scroll indicator near the bottom of the hero.
+
+Mobile adaptation:
+- Keep the typography dramatic but reduce the oversized background word so it does not break the layout.
+- Put the portrait prominently above or beside the main introduction.
+- Stack the text and CTAs cleanly.
+- Move supporting highlights below the primary hero content.
+- Ensure the face is never obscured by critical text.
+
+# 7. PROFESSIONAL PROFILE / ABOUT SECTION
+
+Create a sophisticated About section using the same editorial design language.
+
+Section eyebrow:
+“01 / ABOUT”
+
+Section heading:
+“Security begins with understanding how systems fail.”
+
+Write an original, concise professional introduction explaining my focus on penetration testing, application security, vulnerability identification, risk assessment, and clear remediation guidance.
+
+Emphasize the professional approach:
+- Scope and authorization first.
+- Systematic testing methodology.
+- Evidence-based findings.
+- Risk prioritization.
+- Actionable remediation recommendations.
+- Clear communication with technical and non-technical stakeholders.
+
+Include a small portrait detail, abstract security illustration, or technical visual if it improves the layout.
+
+Create a two-column desktop composition:
+- Left: large headline and introduction.
+- Right: compact capability list, approach statement, and relevant technical details.
+
+Include a small “HOW I WORK” panel:
+01 — Understand the scope.
+02 — Assess the attack surface.
+03 — Validate findings safely.
+04 — Explain risk and impact.
+05 — Recommend practical fixes.
+
+Do not claim that I follow a specific certification-backed methodology unless verified. You may describe this as a general workflow inspired by recognized professional security-testing practices.
+
+# 8. SECURITY SERVICES SECTION
+
+Create a polished section showcasing the security services I can offer.
+
+Section eyebrow:
+“02 / SERVICES”
+
+Headline:
+“Identify risk before attackers do.”
+
+Create a responsive grid of elegant service cards. Each card should have a unique minimal line icon, numbered index, concise description, and a subtle hover interaction.
+
+Include these services:
+
+A. Web Application Penetration Testing
+Assess web applications for common and complex security weaknesses, authentication problems, access-control failures, input-handling issues, and business-logic vulnerabilities.
+
+B. API Security Testing
+Evaluate API authentication, authorization, input validation, data exposure, rate limiting, and related security controls.
+
+C. Vulnerability Assessment
+Identify and prioritize security weaknesses using appropriate tools, manual verification, and risk-based analysis.
+
+D. Authentication and Access-Control Testing
+Assess login flows, session handling, privilege boundaries, and potential unauthorized access paths.
+
+E. Security Configuration Review
+Review relevant application, server, or deployment configurations for security misconfigurations, where authorized access and scope permit.
+
+F. Security Consultation and Remediation Guidance
+Help teams understand findings, prioritize fixes, and make practical improvements to their security posture.
+
+Each card should have:
+- A small red index number.
+- A concise title.
+- A short description.
+- A minimal icon.
+- A subtle border.
+- A restrained red accent on hover.
+- An optional “DISCUSS THIS SERVICE” link leading to the contact form.
+
+Do not claim to provide services that require qualifications or capabilities I have not demonstrated. Keep all services editable.
+
+Add a clear scope statement indicating that all testing is performed only with explicit authorization and an agreed scope.
+
+# 9. PROJECTS AND SECURITY CASE STUDIES
+
+Create a visually impressive project showcase inspired by the three large image cards in the reference.
+
+Section eyebrow:
+“03 / SELECTED WORK”
+
+Headline:
+“Practical security. Documented findings.”
+
+Build a premium three-column grid on desktop, two columns on medium screens where appropriate, and a single-column stack on mobile.
+
+Use cybersecurity-focused visual artwork for each project:
+- Dark application security dashboard imagery.
+- Abstract network or API architecture visualization.
+- Vulnerability assessment report or security analysis workstation.
+- Browser security testing visual.
+- Code review or threat-modeling visual.
+
+Use actual project screenshots if I provide them later. Until then, create tasteful, original cybersecurity-themed artwork or custom-designed visual previews. Do not represent generated visuals as actual client systems, real penetration-test evidence, or verified project screenshots.
+
+Suggested editable sample case studies:
+
+PROJECT 01 — WEB APPLICATION SECURITY
+Category: Application Security
+Description: A structured assessment focused on identifying and evaluating potential web application security weaknesses.
+Display a compact list of areas assessed, but make each area editable and do not imply that testing was actually completed.
+
+PROJECT 02 — API SECURITY REVIEW
+Category: API Security
+Description: A security-review concept demonstrating authentication, authorization, data exposure, and endpoint-risk analysis.
+Use a polished API architecture illustration.
+
+PROJECT 03 — VULNERABILITY ASSESSMENT
+Category: Security Assessment
+Description: A risk-focused workflow for organizing findings, validating issues, and communicating remediation priorities.
+Use a refined report-style preview.
+
+PROJECT 04 — SECURITY RESEARCH LAB
+Category: Research & Learning
+Description: A personal lab or educational security research project documenting tools, methods, and technical lessons.
+Use a terminal-inspired visual.
+
+PROJECT 05 — ACCESS-CONTROL ANALYSIS
+Category: Web Security
+Description: An educational case-study concept illustrating how authorization boundaries can be reviewed and strengthened.
+
+PROJECT 06 — SECURITY TOOLKIT
+Category: Technical Projects
+Description: A collection of personal scripts, testing workflows, and security-related utilities, where applicable.
+
+Important project rules:
+- Mark sample concepts as “Concept Project”, “Lab Project”, or “Case Study Template” where appropriate.
+- Do not invent client names, real targets, CVE IDs, CVSS scores, bug bounty payouts, discovered vulnerabilities, or successful engagements.
+- Do not disclose sensitive exploit instructions or confidential client details.
+- Do not fabricate GitHub links, live demos, downloadable reports, or project URLs.
+- Make project data easy to replace with my real work later.
+
+Each card must have:
+- A strong visual thumbnail.
+- Project number.
+- Category label.
+- Project title.
+- One- or two-sentence description.
+- A small arrow or “VIEW CASE STUDY” interaction.
+
+When clicked, open a polished project-detail modal or a dedicated project detail page with the scope, methodology, findings summary, risk context, and remediation approach where verified information exists.
+
+Ensure modals are keyboard accessible and close correctly.
+
+# 10. TECHNICAL SKILLS AND SECURITY TOOLKIT
+
+Create a dedicated section that demonstrates technical capability without using fake proficiency scores.
+
+Section eyebrow:
+“04 / TECHNICAL STACK”
+
+Headline:
+“Tools are only as effective as the methodology behind them.”
+
+Organize skills into clean categories with compact labels, icons, and consistent spacing.
+
+Include a configurable skills collection, initially populated with tools and technologies that can be edited based on actual experience:
+
+WEB APPLICATION SECURITY
+- OWASP Top 10 concepts
+- Authentication and authorization testing
+- Session security
+- Input validation testing
+- Access-control analysis
+- Basic business-logic testing
+
+RECONNAISSANCE AND NETWORK TESTING
+- Nmap
+- Network service discovery
+- DNS and HTTP reconnaissance
+- Network traffic analysis
+- Wireshark
+
+WEB SECURITY TESTING
+- Burp Suite
+- HTTP request and response analysis
+- Proxy-based application testing
+- Manual vulnerability validation
+
+LINUX AND SECURITY ENVIRONMENTS
+- Kali Linux
+- Linux command line
+- Security testing lab environments
+
+SCRIPTING AND AUTOMATION
+- Python, only if confirmed as a skill
+- Bash, only if confirmed as a skill
+- Custom scripts and automation, where applicable
+
+RESEARCH AND REPORTING
+- Vulnerability documentation
+- Evidence collection
+- Risk-based prioritization
+- Remediation guidance
+
+Treat tools as editable examples, not proof of mastery. Do not add advanced tools or technologies to the final displayed skill list unless they are confirmed or explicitly approved by me.
+
+Use small outlined skill chips, restrained red accents, and clear category dividers. Avoid generic progress bars with arbitrary percentages.
+
+# 11. METHODOLOGY / WORK PROCESS
+
+Recreate the reference's numbered vertical workflow using a cybersecurity-specific process.
+
+Section eyebrow:
+“05 / METHODOLOGY”
+
+Headline:
+“A disciplined approach to security testing.”
+
+Show five connected steps using circular line icons, numbered markers, thin connecting lines, and short descriptions.
+
+01 — SCOPE
+Define the objective, authorization, permitted targets, exclusions, and testing boundaries.
+
+02 — RECONNAISSANCE
+Understand the approved attack surface and identify relevant technologies and potential areas of concern.
+
+03 — TESTING
+Conduct methodical security testing using appropriate tools and manual validation techniques.
+
+04 — VALIDATION & ANALYSIS
+Verify findings safely, assess their potential impact, remove false positives, and prioritize risk.
+
+05 — REPORT & REMEDIATE
+Deliver clear documentation, explain the evidence and impact, and provide actionable remediation guidance.
+
+06 — RETEST, WHEN AGREED
+Where included in the engagement, validate whether the agreed fixes address the reported issues.
+
+Use subtle scroll-triggered animations to reveal the process. On mobile, transform the vertical timeline into a clean, easy-to-read stacked layout.
+
+# 12. PROFESSIONAL PRINCIPLES / QUOTE PANEL
+
+Create a visually distinctive deep-crimson panel inspired by the quotation area in the reference image.
+
+Use a large quotation mark, elegant typography, and restrained red lighting.
+
+Suggested original quote:
+
+“Good security isn't about assuming systems are safe. It's about testing carefully, understanding risk, and making the next decision stronger.”
+
+Attribute it to:
+“RODRO ISLAM”
+
+Treat this as a personal brand statement, not an external quotation.
+
+Add a small supporting message:
+“Responsible testing. Clear findings. Practical improvements.”
+
+The panel should occupy approximately one-third of a desktop three-column layout when paired with related content, or appear as a standalone horizontal feature depending on screen size.
+
+# 13. CREDENTIALS, LEARNING, AND PROFESSIONAL DEVELOPMENT
+
+Create an optional credentials section that can be configured without fabricating qualifications.
+
+Section eyebrow:
+“06 / BACKGROUND”
+
+Headline:
+“Continuous learning. Practical security.”
+
+Provide editable areas for:
+- Education
+- Cybersecurity training
+- Verified certifications
+- Relevant courses
+- Security labs
+- Technical learning projects
+- Community participation, if confirmed
+
+Do not automatically populate the site with invented universities, degrees, certifications, certificate numbers, employers, dates, or awards.
+
+If no verified credentials are supplied, present this section as “Learning & Development” and focus on documented personal projects, ongoing technical learning, and practical lab work.
+
+Include a clean two-column layout with dates and small red metadata labels where verified.
+
+Make this section easy to update as my professional profile grows.
+
+# 14. SECURITY STATISTICS AND TRUST SIGNALS
+
+The reference uses prominent numerical metrics. Adapt this concept without manufacturing credibility.
+
+Do not display invented statistics such as:
+- Years of experience.
+- Number of clients.
+- Number of penetration tests.
+- Vulnerabilities discovered.
+- Percentage of systems secured.
+- Security certifications.
+- Success rates.
+
+Instead, initially use qualitative trust indicators such as:
+- AUTHORIZATION-FIRST TESTING
+- EVIDENCE-BASED FINDINGS
+- RISK-FOCUSED REPORTING
+- PRACTICAL REMEDIATION
+
+If verified numerical metrics are added later, make them editable through a single configuration file.
+
+# 15. CONTACT AND CONVERSION SECTION
+
+Build a powerful final section inspired by the reference's “LET'S WORK TOGETHER” layout.
+
+Section eyebrow:
+“07 / CONTACT”
+
+Main heading:
+“LET'S SECURE WHAT YOU'RE BUILDING.”
+
+Supporting copy:
+“Planning a penetration test, reviewing an application, or looking for a security-minded collaborator? Tell me about your project and the security goals you want to achieve.”
+
+Primary CTA:
+“REQUEST A SECURITY ASSESSMENT”
+
+Secondary CTA:
+“CONTACT ME”
+
+Create a two-column desktop layout.
+
+Left column:
+- Large headline.
+- Concise supporting paragraph.
+- Availability label that can be edited.
+- Clear response-oriented CTA.
+
+Right column:
+- Professional contact details.
+- Contact form.
+- Small security-themed visual, such as a dark laptop displaying a generic security report or code editor.
+
+Do not fabricate contact information. Put unknown contact details in a clearly identifiable central configuration file and make them easy to replace. Do not display invented email addresses, phone numbers, social accounts, or locations.
+
+CONTACT FORM FIELDS:
+- Full Name
+- Work Email
+- Company or Organization (optional)
+- Service Interested In
+- Project Scope
+- Target Environment Type
+- Desired Timeline (optional)
+- Additional Details
+
+Add:
+- Required-field validation.
+- Email format validation.
+- Clear error messages.
+- Submission loading state.
+- Success and failure feedback.
+- Accessible form labels.
+- Spam protection or a honeypot field where appropriate.
+- Privacy-conscious handling of submitted information.
+
+The form must be genuinely functional when the required backend or email service is configured. Never pretend that an inquiry was sent if no working submission service exists.
+
+Implement a clean integration boundary for a backend endpoint, email provider, or serverless function. Keep secrets on the server and never expose API keys in frontend code.
+
+If no backend is configured, provide a clearly documented configuration step and a working, honest fallback such as opening the user's email client with a prefilled message when a verified email address has been configured.
+
+# 16. PROFESSIONAL FOOTER
+
+Design a minimal footer that visually completes the website.
+
+Include:
+- The original “RODRO ISLAM” wordmark.
+- A short professional descriptor.
+- Internal navigation links.
+- Configurable LinkedIn profile link.
+- Configurable GitHub profile link.
+- Configurable professional email link.
+- Optional other verified professional profiles.
+- Copyright year generated dynamically.
+- A compact “BACK TO TOP” control.
+- A subtle final red accent or line.
+
+Suggested footer statement:
+“Focused on finding weaknesses, reducing risk, and helping build more secure digital experiences.”
+
+Use only actual URLs and contact details supplied or configured by me. Hide unavailable social links rather than linking to fake profiles.
+
+# 17. IMAGE GENERATION AND VISUAL ASSETS
+
+Generate or create all required supporting visual assets where the available development environment supports it.
+
+The design must never contain empty image boxes, broken image icons, unresolved image placeholders, or generic gray rectangles.
+
+PRIORITY 1 — MY PERSONAL PORTRAIT
+Use the personal photograph I upload as the hero image. Do not replace my face with AI-generated imagery.
+
+PRIORITY 2 — ORIGINAL PROJECT VISUALS
+Generate distinct cybersecurity-themed illustrations or compose original graphical previews for the project cards:
+- Web application security assessment.
+- API security architecture.
+- Vulnerability reporting interface.
+- Security research lab.
+- Access-control testing concept.
+- Technical security toolkit.
+
+PRIORITY 3 — SUPPORTING VISUALS
+Where helpful, create:
+- Abstract network diagrams.
+- Subtle circuit patterns.
+- Low-contrast terminal details.
+- Geometric security illustrations.
+- Dark desktop workstation imagery.
+- Technical grids and abstract data-flow patterns.
+
+Art direction:
+- Black and deep-charcoal surfaces.
+- Controlled crimson highlights.
+- Realistic lighting where photography is used.
+- Premium composition.
+- Clean, high-resolution output.
+- No watermarks.
+- No random letters or illegible generated text.
+- No recognizable third-party logos.
+- No imitation of real companies' security dashboards.
+- No fake client evidence.
+
+Prefer original SVG illustrations, CSS-generated backgrounds, and clean interface mockups when they provide better consistency and responsiveness than raster artwork.
+
+If an image-generation tool is unavailable, create attractive original visual assets using CSS, SVG, or programmatic illustrations. Do not reference nonexistent local image files or leave missing image URLs in the project.
+
+Use optimized image formats where possible, meaningful alt text, responsive image sizing, and lazy loading for below-the-fold assets.
+
+# 18. BACKGROUND EFFECTS AND VISUAL DEPTH
+
+Apply sophisticated visual effects throughout the site:
+- Fine dark-gray grid lines.
+- Subtle radial crimson gradients behind important sections.
+- Low-opacity technical patterns.
+- Carefully controlled ambient light around the portrait.
+- Thin section dividers.
+- Small circular technical markers.
+- Minimal terminal-style metadata.
+- Layered card surfaces.
+- Soft shadows for elevated elements.
+- Occasional red highlight strokes.
+
+Keep these effects subtle and consistent.
+
+Do not use excessive particles, constant glitching, aggressive scanlines, heavy blur, large neon glows, or flashing effects.
+
+The overall mood should be cinematic, confident, analytical, precise, and premium.
+
+# 19. ANIMATION AND INTERACTIONS
+
+Add smooth, high-quality interactions without compromising usability.
+
+Hero:
+- Subtle entrance animation for the headline.
+- Gentle portrait fade-in or upward movement.
+- Slow, restrained ambient background movement.
+- A small red availability indicator, without excessive pulsing.
+
+Navigation:
+- Smooth anchor scrolling.
+- Refined active or hover states.
+- Responsive mobile menu animation.
+
+Cards:
+- Slight image scale on hover.
+- Border color transition.
+- Subtle elevation.
+- Arrow movement.
+- Clean focus indicators for keyboard navigation.
+
+Workflow:
+- Sequential reveal animations.
+- Subtle timeline progression as the user scrolls.
+
+Sections:
+- Small fade-up reveals using IntersectionObserver or an equivalent performant method.
+- Avoid delaying important content until animation completes.
+
+Buttons:
+- Smooth color transitions.
+- Slight arrow movement.
+- Clear pressed and focus states.
+
+Forms:
+- Animated focus borders.
+- Inline validation.
+- Submission progress feedback.
+- Accessible success and error states.
+
+Technical requirements:
+- Respect prefers-reduced-motion.
+- Avoid excessive parallax.
+- Avoid animations that cause layout shifts.
+- Avoid continuous CPU-intensive background effects.
+- Keep the site responsive and smooth on mid-range mobile devices.
+- Do not hijack scrolling or disable normal browser behavior.
+
+# 20. RESPONSIVE DESIGN REQUIREMENTS
+
+The website must be fully responsive across mobile, tablet, laptop, desktop, and ultrawide screens.
+
+Desktop, 1440px and above:
+- Wide editorial hero.
+- Oversized background typography.
+- Large personal portrait.
+- Three-column project grid.
+- Multi-column skills and service layouts.
+- Precise alignment and generous negative space.
+
+Laptop, approximately 1024–1439px:
+- Scale typography smoothly.
+- Reduce oversized display text.
+- Maintain portrait prominence.
+- Keep grids and spacing balanced.
+- Avoid horizontal overflow.
+
+Tablet, approximately 768–1023px:
+- Reduce hero complexity while preserving the visual identity.
+- Use two-column grids where practical.
+- Stack information panels when necessary.
+- Maintain readable text and touch-friendly navigation.
+
+Mobile, 320–767px:
+- Single-column primary layout.
+- Compact header and accessible navigation.
+- Hero portrait integrated naturally into the first screen.
+- Background display text scaled, cropped, or simplified.
+- Full-width or neatly stacked CTAs.
+- One-column project cards.
+- Stacked service and skills sections.
+- Readable process timeline.
+- Properly sized forms.
+- No clipped headings, overlapping content, or horizontal scrolling.
+
+Use CSS Grid, Flexbox, clamp(), responsive containers, and appropriate breakpoints.
+
+Check at minimum:
+- 320px
+- 375px
+- 430px
+- 768px
+- 1024px
+- 1440px
+- 1920px
+
+Ensure buttons and interactive elements are comfortably touchable, preferably around 44px in height where appropriate.
+
+# 21. TECHNICAL IMPLEMENTATION
+
+Build a real, maintainable website using the existing project structure and technology stack where one already exists.
+
+If starting from scratch, use:
+- React.
+- TypeScript.
+- Vite.
+- Tailwind CSS if properly configured, or clean modular CSS.
+- Lucide icons or another consistent open-source icon library.
+- Reusable components.
+- Semantic HTML.
+- Modern CSS layout and animation techniques.
+
+Create a maintainable component architecture such as:
+- Header
+- HeroSection
+- AboutSection
+- ServicesSection
+- ProjectsSection
+- SkillsSection
+- MethodologySection
+- BackgroundSection
+- ContactSection
+- Footer
+- ProjectDetailModal
+- ContactForm
+
+Use a central configuration file for:
+- Name and professional titles.
+- Biography.
+- Skills.
+- Services.
+- Projects.
+- Verified credentials.
+- Contact information.
+- Social links.
+- Availability.
+- Verified statistics.
+
+Do not hardcode the same personal information in multiple components.
+
+Implementation rules:
+- Inspect the existing project before making changes.
+- Preserve existing working functionality.
+- Install only necessary dependencies.
+- Ensure imports, filenames, and component exports are consistent.
+- Do not leave incomplete TODO sections in the user-facing website.
+- Do not use broken routes or dead buttons.
+- Do not introduce fake loading states that never finish.
+- Avoid unnecessary dependencies.
+- Keep the code organized and easy to maintain.
+- Add appropriate document metadata, favicon, page title, and description.
+- Ensure the website works after the documented installation and start commands.
+- Verify the production build.
+- Resolve runtime errors, console errors, missing assets, and responsive layout problems.
+
+If a backend already exists, integrate with it where appropriate without breaking existing functionality. If no backend exists, create a clear integration boundary rather than pretending that a backend is available.
+
+# 22. SECURITY AND PRIVACY OF THE PORTFOLIO WEBSITE
+
+Because this is a cybersecurity professional's portfolio, the website itself must demonstrate good security practices.
+
+Requirements:
+- Do not expose secrets or API keys in client-side code.
+- Validate and sanitize user-submitted data on the server.
+- Use appropriate security headers where server configuration allows.
+- Avoid unsafe HTML injection.
+- Use HTTPS-compatible deployment assumptions.
+- Apply appropriate spam protection to contact forms.
+- Do not collect unnecessary personal information.
+- Include a concise privacy notice explaining what contact-form information is collected and how it is used, with configurable details.
+- Avoid claiming security certifications or guaranteed protection.
+- Avoid publishing private information or sensitive security research.
+- Keep third-party dependencies limited and reasonably maintained.
+- Use safe external-link attributes where appropriate.
+
+Include a short responsible-testing statement:
+“All security testing is conducted only with explicit authorization and within an agreed scope.”
+
+# 23. SEO, ACCESSIBILITY, AND PERFORMANCE
+
+Implement professional SEO and accessibility foundations.
+
+SEO:
+- Title: “Rodro Islam | Penetration Tester & Cybersecurity Specialist”
+- Write a concise, original meta description.
+- Use semantic headings in logical order.
+- Add Open Graph metadata.
+- Add appropriate social-sharing metadata.
+- Use meaningful image alt text.
+- Use a configurable canonical URL when the production domain is known.
+- Avoid fabricated reviews, ratings, and structured-data claims.
+
+Accessibility:
+- Semantic HTML5.
+- Keyboard-accessible navigation.
+- Visible focus indicators.
+- Accessible dialogs and modals.
+- Sufficient color contrast.
+- Correct form labels.
+- Descriptive link text.
+- Appropriate ARIA attributes only when necessary.
+- Reduced-motion support.
+- No information communicated by color alone.
+
+Performance:
+- Optimize image dimensions and compression.
+- Lazy-load noncritical images.
+- Avoid unnecessary animation libraries.
+- Prevent layout shifts.
+- Keep JavaScript bundles reasonable.
+- Use efficient CSS.
+- Avoid large blocking resources.
+- Target strong Lighthouse scores, aiming for 90+ in performance, accessibility, best practices, and SEO where the deployment environment permits.
+
+# 24. CONTENT QUALITY AND PROFESSIONAL CREDIBILITY
+
+The writing must sound like a real cybersecurity professional communicating with international businesses.
+
+Avoid:
+- Generic marketing filler.
+- Repetitive AI-generated phrases.
+- Exaggerated claims.
+- Fake testimonials.
+- Fake client logos.
+- Fake certifications.
+- Invented work history.
+- Unverified statistics.
+- False statements about vulnerability discoveries.
+- Fake GitHub repositories.
+- Empty placeholder text.
+- Excessive use of the words “hacker” and “hacking”.
+- Overly dramatic threats or fear-based marketing.
+
+Prefer:
+- Precise security terminology.
+- Clear explanations of business risk.
+- Practical descriptions of services.
+- Professional and confident copy.
+- Honest descriptions of experience.
+- Clear calls to action.
+- Strong visual hierarchy.
+- Concise, readable writing.
+
+# 25. FINAL QUALITY CHECKLIST
+
+Before considering the project complete, verify all of the following:
+
+1. The website unmistakably follows the reference's black, crimson, editorial portfolio theme.
+2. The identity is original and focused entirely on Rodro Islam's cybersecurity profession.
+3. The uploaded personal photograph is used for the main hero portrait.
+4. No other person's portrait is substituted for mine.
+5. The oversized hero typography works at all screen sizes.
+6. Every section has finished styling and meaningful content.
+7. Service cards and project cards are visually polished.
+8. Generated supporting images or original graphics load correctly.
+9. No image boxes are empty.
+10. No broken image URLs exist.
+11. Navigation and all internal links work.
+12. CTAs lead to real destinations or properly configured contact interactions.
+13. The contact form validates input and communicates its actual submission status.
+14. Project detail interactions work correctly.
+15. Mobile navigation works.
+16. No horizontal overflow exists at 320px.
+17. Reduced-motion preferences are respected.
+18. No invented credentials, statistics, client results, or employment claims appear.
+19. The project builds successfully.
+20. The website is ready to be configured with my real contact details, verified background, actual project evidence, and production deployment settings.
+
+# FINAL INSTRUCTION
+
+Build the complete website now. Do not merely return a plan, a wireframe, an explanation, a screenshot, or a list of recommendations.
+
+Prioritize the visual composition of the uploaded reference: gigantic red typography, a striking central portrait, black cinematic surfaces, refined editorial grids, numbered project cards, thin separators, sophisticated crimson accents, and a premium contact section.
+
+Transform that aesthetic into a serious, original, conversion-focused cybersecurity portfolio for Rodro Islam, emphasizing professional penetration testing, application security, authorized security assessments, technical capability, evidence-based reporting, and responsible security practices.
+
+The final website should feel bespoke, visually impressive, credible, polished, responsive, and ready to present to international clients.
+
+Use my uploaded photograph when it is available in the project workflow. Keep all unknown personal information configurable rather than inventing it. Ensure every section, visual asset, interaction, and responsive layout is implemented to the highest practical standard.
